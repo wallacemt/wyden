@@ -1,1 +1,1 @@
-cria um programa em 5 linguagens que some de 2 em 2ate que seja menor igual a 40 e depois divida por 30 e mostre o resultado na tela.
+cria um programa em 5 linguagens que some de 2 em 2 ate que seja menor igual a 40 e depois divida por 30 e mostre o resultado na tela.
